@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CookBook</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="menu_home">Strona główna</string>
+    <string name="menu_recipes">Przepisy</string>
+    <string name="menu_favourite">Ulubione</string>
+    <string name="menu_logout">Wyloguj</string>
+    <string name="menu_my_recipes">Moje przepisy</string>
+    <string name="menu_shopping">Zakupy</string>
+
+    <string name="home_recipes_image">Przepisy</string>
+    <string name="recipe_card_image">Recipe\'s image</string>
+    <string name="title_activity_recipe_details">Szczegóły przepisu</string>
+
+    <string name="title_activity_add_recipe">Dodaj przepis</string>
+    <string name="add_ingredient">+DODAJ SKŁADNIKI</string>
+    <string name="add_step">+NAPISZ KROKI</string>
+    <string name="save">Zapisz</string>
+    <string name="add_image">Dodaj zdjęcie</string>
+    <string name="title">Tytuł</string>
+    <string name="description">Opis</string>
+    <string name="title_activity_add_ingredients">Dodaj składniki</string>
+    <string name="ingredient_name">Składnik</string>
+    <string name="step">Krok</string>
+    <string name="quantity">Ilość</string>
+    <string name="cancel">Anuluj</string>
+    <string name="add">Dodaj</string>
+
+    <string name="title_activity_add_steps">Dodaj instrukcję</string>
+    <string name="info">Info</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Hasło</string>
+    <string name="prompt_firstName">Imię</string>
+    <string name="prompt_lastName">Nazwisko</string>
+
+    <string name="log_in">Zaloguj się</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="ingredients">Składniki</string>
+    <string name="instruction">Przygotowanie</string>
+    <string name="search_recipe">Szukaj przepisu..</string>
+    <string name="step_number">Krok 1 z 4</string>
+    <string name="voice">Speech</string>
+
+
+</resources>

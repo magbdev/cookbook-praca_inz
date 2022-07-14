@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "299246181467",
+    "firebase_url": "https://cookbook-e4873.firebaseio.com",
+    "project_id": "cookbook-e4873",
+    "storage_bucket": "cookbook-e4873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299246181467:android:99b6a3e6f8040cf912737e",
+        "android_client_info": {
+          "package_name": "com.example.cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299246181467-m94f9i2470l9h3a6bp19k3jgg66lflsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cookbook",
+            "certificate_hash": "031684ead387d8e2588290f53f9a487e606bc2a6"
+          }
+        },
+        {
+          "client_id": "299246181467-feoe2pvn840dg5ja2spqrd7sesqstef9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1BSueGkNpqsGQcsg_4mx7d6COQ9PJfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299246181467-feoe2pvn840dg5ja2spqrd7sesqstef9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299246181467:android:038fd35dbbb9347e12737e",
+        "android_client_info": {
+          "package_name": "com.example.pracainzynierska"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299246181467-01qa645ql96lhdsvvp5vtv38uq15ft7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pracainzynierska",
+            "certificate_hash": "031684ead387d8e2588290f53f9a487e606bc2a6"
+          }
+        },
+        {
+          "client_id": "299246181467-feoe2pvn840dg5ja2spqrd7sesqstef9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1BSueGkNpqsGQcsg_4mx7d6COQ9PJfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299246181467-feoe2pvn840dg5ja2spqrd7sesqstef9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
